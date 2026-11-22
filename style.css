@@ -31,6 +31,20 @@ body{
     
     
 }
+.cod{
+    border: 1px solid white;
+    border-radius: 10px;
+    box-shadow: 1px 1px 3px rgb(206, 200, 200);
+    width: 20%;
+    text-align: center;
+    height: 280px;
+    padding-top: 30px;
+}
+.cod5{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
 .f1{
     margin-top: -140px;
     margin-left: 200px;
