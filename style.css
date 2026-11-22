@@ -77,6 +77,31 @@ body{
     height: 280px;
     padding-top: 30px;
 }
+.zz{
+    border: 1px solid rgb(184, 183, 183);
+    box-shadow: 1px 1px 3px rgb(222, 213, 213);
+    width: 30%;
+    border-radius: 20px;
+    text-align: start;
+}
+.kaz{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.cc{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+.but{
+    display: flex;
+    /* justify-content: space-evenly; */
+   
+    background-color: white;
+    margin-top: 20px;
+    
+}
 .cod5{
     display: flex;
     justify-content: space-between;
