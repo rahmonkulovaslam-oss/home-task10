@@ -16,3 +16,46 @@ body{
     margin: 50px;
     
 }
+.d1{
+    border: 1px solid white;
+    box-shadow: 1px 1px 3px rgb(227, 221, 221);
+    border-radius: 10px;
+    width: 30%;
+    height: 220px;
+    margin-right: 30px;
+    margin-top: 30px;
+}
+.d{
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+.f1{
+    margin-top: -140px;
+    margin-left: 200px;
+    color: aliceblue;
+    
+}
+.box{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.box1{
+    display: flex;
+    margin-top: 100px;
+    justify-content: space-between;
+    
+    
+}
+.box5{
+ 
+}
+.box3{
+    margin-top: 10px;
+}
+.box4{
+    margin-left: 30px;
+    width: 20%;
+}
