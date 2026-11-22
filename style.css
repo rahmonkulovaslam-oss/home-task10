@@ -41,6 +41,11 @@ body{
     display: flex;
     justify-content: space-between;
 }
+.hilton{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 170px;
+}
 .cod{
     border: 1px solid white;
     border-radius: 10px;
