@@ -135,3 +135,18 @@ body{
     margin-left: 30px;
     width: 20%;
 }
+.pk{
+    display: flex;
+    justify-content: space-between;
+    background-color: #eaeceb;
+    border-radius: 15px;
+    margin-top: 100px;
+    height: 600px;
+}
+.vb{
+    margin-left:50px;
+    padding-top: 50px;
+}
+.xx{
+    
+}
