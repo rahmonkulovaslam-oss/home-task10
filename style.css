@@ -31,6 +31,16 @@ body{
     
     
 }
+.tor{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+
+}
+.vv{
+    display: flex;
+    justify-content: space-between;
+}
 .cod{
     border: 1px solid white;
     border-radius: 10px;
