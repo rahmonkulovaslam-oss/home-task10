@@ -1,0 +1,18 @@
+.aa{
+    display: flex;
+    justify-content: space-between;
+}
+.img1{
+    display: flex;
+    
+   justify-content: space-evenly;
+   width: 50%;
+    
+   
+}
+body{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 50px;
+    
+}
