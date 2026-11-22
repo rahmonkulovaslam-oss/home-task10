@@ -41,10 +41,32 @@ body{
     display: flex;
     justify-content: space-between;
 }
+.w2{
+    width: 50%;
+}
+.w3{
+    width: 50%;
+    background-color:#f9d15c;
+    border-radius: 8px;
+    text-align: center;
+    align-items: center;
+    padding-top: 50px;
+   
+    font-size: 40px;
+        
+}
+.wl{
+    
+}
 .hilton{
     display: flex;
     justify-content: space-between;
     margin-top: 170px;
+}
+.surat5{
+    display: flex;
+    margin-top: 70px;
+
 }
 .cod{
     border: 1px solid white;
