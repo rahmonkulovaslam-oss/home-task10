@@ -14,6 +14,7 @@ body{
     
     font-family: Arial, Helvetica, sans-serif;
     margin: 50px;
+    overflow-x: hidden;
     
 }
 .d1{
@@ -57,6 +58,7 @@ body{
 }
 .wl{
     
+    
 }
 .hilton{
     display: flex;
@@ -66,6 +68,7 @@ body{
 .surat5{
     display: flex;
     margin-top: 70px;
+    border-radius: 15px;
 
 }
 .cod{
@@ -126,13 +129,15 @@ body{
     
 }
 .box5{
+    width: 75%;
  
 }
 .box3{
-    margin-top: 10px;
+    margin-top: 40px;
+    height: 20px;
 }
 .box4{
-    margin-left: 30px;
+    margin-right:40px;
     width: 20%;
 }
 .mm{
